@@ -1,0 +1,1 @@
+En este directorio se guarda la planilla generada con los resultados de cada dominio

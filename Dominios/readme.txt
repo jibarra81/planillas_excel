@@ -1,0 +1,1 @@
+En este directorio se agregan las planillas de cada dominio generado a traves de view_only
