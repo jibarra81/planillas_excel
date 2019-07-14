@@ -5,3 +5,4 @@ valores si el item está current o si está proposed, luego los guarda en otra
 planilla en el directorio "Planillas_generadas".
 Para hacer correr esta aplicacion es necesario instalar la libraria "OpenPyXl" 
 en Python.
+- Falta agregar el archivo .log
