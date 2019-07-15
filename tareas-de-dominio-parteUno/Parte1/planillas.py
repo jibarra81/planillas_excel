@@ -15,8 +15,8 @@ logging.basicConfig(filename='registro.log', level=logging.INFO,
     format='%(asctime)s: %(levelname)s: %(message)s',
     datefmt="%d/%m/%Y %I:%M:%S")
 
-user_email = "automatizaciones@nahualit.com"
-user_pass = "yTtd4O87"
+user_email = "tu_email@mail.com"
+user_pass = "tu_password"
 url_domain = "https://www.mlcatalog.com/catalog/apd-frontend/domains/"
 
 
