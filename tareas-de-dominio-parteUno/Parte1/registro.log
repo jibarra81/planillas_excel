@@ -1,0 +1,14 @@
+14/07/2019 09:32:55: INFO: Login: Email
+14/07/2019 09:32:57: INFO: login: password
+14/07/2019 09:32:57: INFO: Login: Siguiente
+14/07/2019 09:33:57: INFO: Se ingreso al catalogo del dominio --> KITCHEN_FAUCETS
+14/07/2019 09:33:57: INFO: Click en boton 'Generar planilla view only' 
+14/07/2019 09:33:57: INFO: Generando planilla view only...
+14/07/2019 09:36:14: INFO: PLANILLA GENERADA
+14/07/2019 09:37:10: INFO: Click en 'Archivo' 
+14/07/2019 09:37:11: INFO: Click en 'Guardar como' 
+14/07/2019 09:37:15: INFO: Guardando como Excel: KITCHEN_FAUCETS
+14/07/2019 09:37:20: INFO: Tiempo de inicio --> 21:32:55.574712
+14/07/2019 09:37:20: INFO: Tiempo de fin --> 21:37:20.082760
+14/07/2019 09:37:20: INFO: TIEMPO DE EJECUCION --> 4.502963463465373
+14/07/2019 09:37:20: INFO: ============================================================

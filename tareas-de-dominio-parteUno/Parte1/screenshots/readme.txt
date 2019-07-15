@@ -1,0 +1,1 @@
+En este directorio se guarda los screenshots de los errores

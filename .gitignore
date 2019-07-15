@@ -5,3 +5,4 @@
 *.xlsx
 *.xls
 .idea
+.log

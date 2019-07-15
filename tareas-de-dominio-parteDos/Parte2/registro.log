@@ -1,0 +1,64 @@
+02/07/2019 12:35:01: INFO: Creacion de la planilla
+02/07/2019 12:35:01: DEBUG: Comienza la ejecucion del programa
+02/07/2019 12:35:01: INFO: Se obtiene el nombre del archivo
+02/07/2019 12:35:05: INFO: ('cooktops', 1454, 177, 1631)
+02/07/2019 12:35:08: INFO: ('electric_jugs', 1372, 65, 1437)
+02/07/2019 12:35:11: INFO: ('ladders', 1882, 102, 1984)
+02/07/2019 12:35:13: INFO: ('pillows', 563, 29, 592)
+02/07/2019 12:35:14: INFO: ('thermoses', 913, 0, 913)
+02/07/2019 12:35:14: INFO: Se genero la planilla ;) 
+02/07/2019 12:35:14: INFO: Finaliza la ejecucion
+02/07/2019 12:38:43: INFO: Creacion de la planilla
+02/07/2019 12:38:43: DEBUG: Comienza la ejecucion del programa
+02/07/2019 12:38:43: INFO: Se obtiene el nombre del archivo
+02/07/2019 12:38:47: INFO: ('cooktops', 1454, 177, 1631)
+02/07/2019 12:38:50: INFO: ('electric_jugs', 1372, 65, 1437)
+02/07/2019 12:38:53: INFO: ('ladders', 1882, 102, 1984)
+02/07/2019 12:38:55: INFO: ('pillows', 563, 29, 592)
+02/07/2019 12:38:56: INFO: ('thermoses', 913, 0, 913)
+02/07/2019 12:38:56: INFO: Se genero la planilla
+02/07/2019 12:38:56: INFO: Finaliza la ejecucion
+02/07/2019 12:40:07: INFO: Creacion de la planilla
+02/07/2019 12:40:07: DEBUG: Comienza la ejecucion del programa
+02/07/2019 12:40:07: INFO: Se obtiene el nombre del archivo
+02/07/2019 12:40:10: INFO: ('cooktops', 1454, 177, 1631)
+02/07/2019 12:40:13: INFO: ('electric_jugs', 1372, 65, 1437)
+02/07/2019 12:40:17: INFO: ('ladders', 1882, 102, 1984)
+02/07/2019 12:40:18: INFO: ('pillows', 563, 29, 592)
+02/07/2019 12:40:20: INFO: ('thermoses', 913, 0, 913)
+02/07/2019 12:40:20: INFO: Se genero la planilla
+02/07/2019 12:40:20: INFO: Finaliza la ejecucion
+02/07/2019 12:42:43: INFO: Creacion de la planilla
+02/07/2019 12:42:43: DEBUG: Comienza la ejecucion del programa
+02/07/2019 12:42:43: INFO: Se obtiene el nombre del archivo
+02/07/2019 12:42:46: INFO: ('cooktops', 1454, 177, 1631)
+02/07/2019 12:42:49: INFO: ('electric_jugs', 1372, 65, 1437)
+02/07/2019 12:42:53: INFO: ('ladders', 1882, 102, 1984)
+02/07/2019 12:42:54: INFO: ('pillows', 563, 29, 592)
+02/07/2019 12:42:56: INFO: ('thermoses', 913, 0, 913)
+02/07/2019 12:42:56: INFO: Se genero la planilla
+02/07/2019 12:42:56: INFO: Finaliza la ejecucion
+02/07/2019 12:42:56: INFO: ---------------------------------------------------------------------
+02/07/2019 12:46:39: INFO: Creacion de la planilla
+02/07/2019 12:46:39: DEBUG: Comienza la ejecucion del programa
+02/07/2019 12:46:39: INFO: Se obtiene el nombre del archivo
+02/07/2019 12:46:43: INFO: ('cooktops', 1454, 177, 1631)
+02/07/2019 12:46:45: INFO: ('electric_jugs', 1372, 65, 1437)
+02/07/2019 12:46:49: INFO: ('ladders', 1882, 102, 1984)
+02/07/2019 12:46:50: INFO: ('pillows', 563, 29, 592)
+02/07/2019 12:46:52: INFO: ('thermoses', 913, 0, 913)
+02/07/2019 12:46:52: INFO: Se genero la planilla
+02/07/2019 12:46:52: INFO: Finaliza la ejecucion
+02/07/2019 12:46:52: INFO: --------------------------------------------------------
+14/07/2019 09:39:24: INFO: Creacion de la planilla
+14/07/2019 09:39:24: DEBUG: Comienza la ejecucion del programa
+14/07/2019 09:39:24: INFO: Se obtiene el nombre del archivo
+14/07/2019 09:39:24: INFO: ('thermoses', 913, 0, 913)
+14/07/2019 09:39:25: INFO: ('electric_jugs', 1372, 65, 1437)
+14/07/2019 09:39:25: INFO: ('pillows', 563, 29, 592)
+14/07/2019 09:39:27: INFO: ('kitchen_faucets', 3234, 4, 3238)
+14/07/2019 09:39:28: INFO: ('cooktops', 1454, 177, 1631)
+14/07/2019 09:39:29: INFO: ('ladders', 1882, 102, 1984)
+14/07/2019 09:39:29: INFO: Se genero la planilla
+14/07/2019 09:39:29: INFO: Finaliza la ejecucion
+14/07/2019 09:39:29: INFO: --------------------------------------------------------
